@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
+📚 Currently pursuing MSc.Data Science at PSG College of Technology
 🚀I'm passionate about Data Science, Machine Learning  and Natural Language Processing(NLP)<br>
 
 
