@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](./github-header-image(1).png)
 # 💫 About Me:
 🚀I'm passionate about Data Science, Machine Learning  and Natural Language Processing(NLP)<br>
 
