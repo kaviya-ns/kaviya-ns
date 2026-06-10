@@ -2,7 +2,7 @@
 # 💫 About Me:
 📚 Currently pursuing MSc.Data Science at PSG College of Technology<br>
 🚀 Passionate about Data Science, Machine Learning  and Natural Language Processing <br>
-🖥️ Interested in Blockchain Technology and Software Development
+🖥️ Interested in Cloud Computing and Software Development
 
 ## 💻 Tech Stack
 
