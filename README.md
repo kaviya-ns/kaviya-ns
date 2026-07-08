@@ -27,12 +27,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaviya-ns&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kaviya-ns&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviya-ns&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaviya-ns&theme=github_dark)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=kaviya-ns&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h2 align="left">
 💻 Check Out My Repos ⬇️
