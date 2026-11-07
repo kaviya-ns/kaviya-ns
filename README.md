@@ -97,6 +97,25 @@ Register faces, recognise them live from a webcam, and ask natural-language ques
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [🚨 RoadSoS](https://github.com/kaviya-ns/RoadSOS)
+Phone-first emergency PWA: automatic crash detection from GPS speed + accelerometer, voice SOS, Twilio SMS to family, and the nearest of **15,000+** hospitals, police and rescue services across Tamil Nadu.
+
+`React` `Flask` `PostGIS` `Leaflet` `Twilio`
+
+</td>
+<td width="50%" valign="top">
+
+### [🔎 Pulse](https://github.com/kaviya-ns/Pulse)
+Search and recommendation engine that ranks content by quality: Boolean/vector/BM25 retrieval, query expansion (**nDCG 0.61 → 0.99**), quality classification, clustering and recommenders (**P@5 0.92**).
+
+`Django` `scikit-learn` `Information Retrieval` `NLP`
+
+</td>
+</tr>
 </table>
 
 <details>
