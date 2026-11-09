@@ -8,6 +8,8 @@ I build end-to-end AI systems — from **RAG pipelines** and **reinforcement-lea
 
 🎓 MSc Data Science · PSG College of Technology &nbsp;|&nbsp; 💼 **Open to full-time roles in Data Science, ML & AI Engineering**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kaviya--ns.github.io-0f8f80?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaviya-ns.github.io)
+
 </div>
 
 ---
@@ -175,4 +177,4 @@ I'm actively looking for opportunities in **Data Science, Machine Learning and A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 -->
-[![GitHub](https://img.shields.io/badge/GitHub-kaviya--ns-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaviya-ns)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kaviya--ns.github.io-0f8f80?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaviya-ns.github.io) [![GitHub](https://img.shields.io/badge/GitHub-kaviya--ns-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaviya-ns)
